@@ -1,0 +1,20 @@
+{
+  "name": "task-zen",
+  "version": "1.0.0",
+  "description": "A CLI task tracker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaqibNawaz56/task-zen.git"
+  },
+  "type": "module",
+  "author": "Saqib Nawaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaqibNawaz56/task-zen/issues"
+  },
+  "homepage": "https://github.com/SaqibNawaz56/task-zen#readme"
+}
